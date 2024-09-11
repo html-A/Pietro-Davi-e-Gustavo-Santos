@@ -1,0 +1,29 @@
+img{
+    width: 200px; 
+    height: 200px;
+}
+body{
+    background-color: gray;
+}
+.Ancora{
+    color: #ffd700;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    background-color: #aaa;
+    border-radius: 5px;
+}
+.link{
+    color: #ffd700;
+    font-size: 20px;
+    text-decoration: none;
+    transition: 0.5s linear;
+}
+.link:hover{
+    color: #ceb524;
+    text-decoration: underline;
+    transition: 0.5s linear;   
+}
+h1{
+    font-family: Helvetica;
+}
